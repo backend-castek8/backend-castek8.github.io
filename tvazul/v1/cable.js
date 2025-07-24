@@ -16,7 +16,7 @@
         ["index3.html#https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8", "https://backend-castek8.github.io/tvazul/v1/banners/tvificao.png"],
         ["index3.html#https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8", "https://backend-castek8.github.io/tvazul/v1/banners/tvireality.png"],
         ["index3.html#https://video-auth2.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/playlist.m3u8", "https://backend-castek8.github.io/tvazul/v1/banners/vplus.png"],
-        ["index2.html#https://cnnportugal.iol.pt/direto", "https://backend-castek8.github.io/tvazul/v1/banners/indexpt.png"],
+        ["index2.html#https://cnnportugal.iol.pt/direto", "https://backend-castek8.github.io/tvazul/v1/banners/cnnpt.png"],
         ["index.html", "NULL"],
     ];
     return channeldb;
