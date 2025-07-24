@@ -8,7 +8,7 @@
         ["index2.html#https://pluto.tv/us/live-tv/5cb0cae7a461406ffe3f5213", "https://backend-castek8.github.io/tvazul/v1/banners/paramount.svg"],
         ["index3.html#https://fl3.moveonjoy.com/FREE_FORM/index.m3u8", "https://backend-castek8.github.io/tvazul/v1/banners/freeform.svg"],
         ["index3.html#https://retroblast.tv/hls/stream.m3u8", "https://backend-castek8.github.io/tvazul/v1/banners/cn.png"],
-        ["index3.html#https://a-cdn.herringnetwork.com/affiliate/awee/playlist.m3u8", "https://backend-castek8.github.io/tvazul/v1/banners/awe.png"],
+        ["index3.html#https://asp7.toonamiaftermath.com/livehttporigin/est/Ibd7c5-gf2dVw-playlist.m3u8", "https://backend-castek8.github.io/tvazul/v1/banners/toonami.png"],
         ["index3.html#https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8", "https://backend-castek8.github.io/tvazul/v1/banners/rtp1.svg"],
         ["index3.html#https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8", "https://backend-castek8.github.io/tvazul/v1/banners/sic.png"],
         ["index3.html#https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8", "https://backend-castek8.github.io/tvazul/v1/banners/sicnoticias.svg"],
@@ -16,7 +16,7 @@
         ["index3.html#https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8", "https://backend-castek8.github.io/tvazul/v1/banners/tvificao.png"],
         ["index3.html#https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8", "https://backend-castek8.github.io/tvazul/v1/banners/tvireality.png"],
         ["index3.html#https://video-auth2.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/playlist.m3u8", "https://backend-castek8.github.io/tvazul/v1/banners/vplus.png"],
-        ["index3.html#https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8", "https://backend-castek8.github.io/tvazul/v1/banners/recordtv.png"],
+        ["index2.html#https://cnnportugal.iol.pt/direto", "https://backend-castek8.github.io/tvazul/v1/banners/indexpt.png"],
         ["index.html", "NULL"],
     ];
     return channeldb;
