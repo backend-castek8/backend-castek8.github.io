@@ -17,6 +17,14 @@
         ["index3.html#https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8", "https://backend-castek8.github.io/tvazul/v1/banners/tvireality.png"],
         ["index3.html#https://video-auth2.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/playlist.m3u8", "https://backend-castek8.github.io/tvazul/v1/banners/vplus.png"],
         ["index2.html#https://cnnportugal.iol.pt/direto", "https://backend-castek8.github.io/tvazul/v1/banners/cnnpt.png"],
+        ["index2.html#https://www.youtube.com/embed/UFrlr77yff8", "https://backend-castek8.github.io/tvazul/v1/banners/tvpworld.svg"],
+        ["index3.html#https://ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/index.m3u8", "https://backend-castek8.github.io/tvazul/v1/banners/tvp1.svg"],
+        ["index3.html#https://meta.vcdn.biz/4781110f8e6ceebe2a6717dfb501a0fc_megogo/live/hls/b/700_2490/u_sid/0/o/199953021/rsid/7a2ec9a0-7f2e-481b-bedb-74d433f1ec63/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/95.214.217.241*asn/u_srvc/81255/u_did/web_xcMP58ms6wiiBJAFHOZwpN2RU5h8k4Cd/type.live/playlist.m3u8", "https://backend-castek8.github.io/tvazul/v1/banners/tvp2.svg"],
+        ["index3.html#https://meta.vcdn.biz/3b30799f5a8692e911e8b5648a086714_megogo/live/hls/b/700_2490/u_sid/0/o/199953841/rsid/437ac8dc-9174-4e75-b757-965707c4ee76/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/95.214.217.241*asn/u_srvc/81255/u_did/web_xcMP58ms6wiiBJAFHOZwpN2RU5h8k4Cd/type.live/playlist.m3u8", "https://backend-castek8.github.io/tvazul/v1/banners/tvp3.svg"],
+        ["index3.html#https://meta.vcdn.biz/b67ba3231099a5f671aa9c86e860c853_megogo/live/hls/b/700_2490/u_sid/0/o/160222531/rsid/03345912-33f2-4ab5-9daa-b6fd5241cdd7/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/95.214.217.241*asn/u_srvc/81255/u_did/web_xcMP58ms6wiiBJAFHOZwpN2RU5h8k4Cd/type.live/playlist.m3u8", "https://backend-castek8.github.io/tvazul/v1/banners/polsat.svg"],
+        ["index2.html#https://partner.ipla.tv/embed/XNgSz8/media/1517830/live", "https://backend-castek8.github.io/tvazul/v1/banners/polsatnews.svg"],
+        ["index3.html#https://meta.vcdn.biz/6c4af6f01c63b5c189c5c4fd2b804b76_megogo/live/hls/b/700_2490/u_sid/0/o/160168951/rsid/b0dae85c-11eb-42cd-ba0b-e61b923aa86b/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/193.42.98.10*asn/u_srvc/81255/u_did/web_xcMP58ms6wiiBJAFHOZwpN2RU5h8k4Cd/type.live/playlist.m3u8", "https://backend-castek8.github.io/tvazul/v1/banners/tv4.svg"],
+        ["index3.html#https://stream.4fun.tv:8888/hls/4f.m3u8", "https://backend-castek8.github.io/tvazul/v1/banners/4fun.svg"],
         ["index.html", "NULL"],
     ];
     return channeldb;
@@ -24,7 +32,7 @@
 
 function getchinfo() {
     let chinfodb = [
-        ["Channel Name", "Channel Description"],
+        ["ChannelName", "ChannelDescription"],
         ["Bob Ross", "24/7 Joy of Painting"],
         ["News Nation", "Non bias news 24/7"],
         ["Weather Scan", "24/7 Weather Service"],
@@ -41,7 +49,15 @@ function getchinfo() {
         ["TVi Reality", "Reality shows"],
         ["V+", "Telenovelas e reality shows"],
         ["Record TV", "Telenovelas e conteúdos gerais"],
-        ["Channel Name", "Channel Description"],
+        ["TVP World", "24/7 English news from Poland. Wiadomości po angielsku z Polski 24/7."],
+        ["TVP 1", "Treści ogólne i filmy."],
+        ["TVP 2", "Treści ogólne, programy telewizyjne i filmy."],
+        ["TVP 3", "Treści regionalne."],
+        ["Polsat", "Wiadomości, programy telewizyjne i filmy."],
+        ["Polsat News", "24/7 Bezstronne wiadomości."],
+        ["TV 4", "programy telewizyjne."],
+        ["4Fun", "ChannelDescription"],
+        ["ChannelName", "ChannelDescription"],
     ];
     return chinfodb;
 }
