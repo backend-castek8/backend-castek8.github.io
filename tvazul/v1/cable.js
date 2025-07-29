@@ -36,7 +36,7 @@ function getchinfo() {
         ["RTP 1", "Conteúdo geral"],
         ["CNN Portugal", "Cobertura noticiosa 24-7"],
         ["SIC", "Tele novelas"],
-        ["SIC", "Filmes Canal"],
+        ["Filmelier", "Filmes Canal"],
         ["Nick", "Desenhos animados para todas as idades"],
         ["Anime", "Anime para todas as idades"],
         ["Channel", "Description not available"],
