@@ -7,7 +7,7 @@
         ["https://fl3.moveonjoy.com/FOX_Sports_1/index.m3u8", "https://backend-castek8.github.io/tvazul/v1/banners/foxsports.png"],
         ["https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8", "https://backend-castek8.github.io/tvazul/v1/banners/tnt.svg"],
         ["https://retroblast.tv/hls/stream.m3u8", "https://backend-castek8.github.io/tvazul/v1/banners/cn.png"],
-        ["https://www.youtube.com/embed/SQ3nRKZ5wwA", "https://backend-castek8.github.io/tvazul/v1/banners/zen.svg"],
+        ["https://www.youtube.com/embed/UbDZREFXewA", "https://backend-castek8.github.io/tvazul/v1/banners/zen.svg"],
         ["https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8", "https://backend-castek8.github.io/tvazul/v1/banners/rtp1.svg"],
         ["https://cnnportugal.iol.pt/direto", "https://backend-castek8.github.io/tvazul/v1/banners/cnnpt.png"],
         ["https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8", "https://backend-castek8.github.io/tvazul/v1/banners/sic.png"],
