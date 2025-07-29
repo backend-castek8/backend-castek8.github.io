@@ -1,7 +1,7 @@
 ﻿function getchannels() {
     let channeldb = [
         ["index.html", "NULL"],
-        ["index3.html#https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8", "https://backend-castek8.github.io/tvazul/v1/banners/create.png"],
+        ["index2.html#https://pluto.tv/us/live-tv/5f36d726234ce10007784f2a", "https://backend-castek8.github.io/tvazul/v1/banners/bobross.svg"],
         ["index3.html#http://fl4.moveonjoy.com/NEWS_NATION/index.m3u8", "https://backend-castek8.github.io/tvazul/v1/banners/newsnation.svg"],
         ["index2.html#http://v2.weatherscan.net/", "https://backend-castek8.github.io/tvazul/v1/banners/weather.svg"],
         ["index3.html#https://fl3.moveonjoy.com/Start_Tv/index.m3u8", "https://backend-castek8.github.io/tvazul/v1/banners/start.png"],

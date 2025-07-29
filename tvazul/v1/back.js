@@ -1,6 +1,6 @@
 ﻿function getchannels() {
     let channeldb = [
-        ["https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8", "https://backend-castek8.github.io/tvazul/v1/banners/create.png"],
+        ["https://service-stitcher.clusters.pluto.tv/v2/stitch/embed/hls/channel/5f36d726234ce10007784f2a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS", "https://backend-castek8.github.io/tvazul/v1/banners/bobross.svg"],
         ["http://fl4.moveonjoy.com/NEWS_NATION/index.m3u8", "https://backend-castek8.github.io/tvazul/v1/banners/newsnation.svg"],
         ["http://v2.weatherscan.net/", "https://backend-castek8.github.io/tvazul/v1/banners/weather.svg"],
         ["https://fl3.moveonjoy.com/Start_Tv/index.m3u8", "https://backend-castek8.github.io/tvazul/v1/banners/start.png"],
