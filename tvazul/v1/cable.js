@@ -17,6 +17,14 @@
         ["index3.html#https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8", "https://backend-castek8.github.io/tvazul/v1/banners/tvireality.png"],
         ["index3.html#https://video-auth2.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/playlist.m3u8", "https://backend-castek8.github.io/tvazul/v1/banners/vplus.png"],
         ["index2.html#https://cnnportugal.iol.pt/direto", "https://backend-castek8.github.io/tvazul/v1/banners/cnnpt.png"],
+        ["index2.html#https://www.rtvs.sk/embed/live/1", "https://backend-castek8.github.io/tvazul/v1/banners/rtvs1.svg"],
+        ["index2.html#https://www.rtvs.sk/embed/live/2", "https://backend-castek8.github.io/tvazul/v1/banners/rtvs2.svg"],
+        ["index2.html#https://www.rtvs.sk/embed/live/3", "https://backend-castek8.github.io/tvazul/v1/banners/rtvs24.svg"],
+        ["index2.html#https://www.rtvs.sk/embed/live/15", "https://backend-castek8.github.io/tvazul/v1/banners/rtvsport.svg"],
+        ["index2.html#https://live.joj.sk/", "https://backend-castek8.github.io/tvazul/v1/banners/joj.svg"],
+        ["index2.html#https://media.cms.markiza.sk/embed/markiza-live?autoplay=any", "https://backend-castek8.github.io/tvazul/v1/banners/marzika.svg"],
+        ["index2.html#https://media.cms.markiza.sk/embed/doma-live?autoplay=any", "https://backend-castek8.github.io/tvazul/v1/banners/doma.svg"],
+        ["index2.html#https://media.cms.markiza.sk/embed/dajto-live?autoplay=any", "https://backend-castek8.github.io/tvazul/v1/banners/dajto.svg"],
         ["index.html", "NULL"],
     ];
     return channeldb;
@@ -41,6 +49,14 @@ function getchinfo() {
         ["TVi Reality", "Reality shows"],
         ["V+", "Telenovelas e reality shows"],
         ["CNN Portugal", "Cobertura noticiosa 24-7"],
+        ["RTVS 1", "Všeobecný obsah"],
+        ["RTVS 2", "Všeobecný a vzdelávací obsah"],
+        ["RTVS 24", "Správy 24 hodín denne, 7 dní v týždni"],
+        ["RTVS SPORT", "Šport 24 hodín denne, 7 dní v týždni"],
+        ["JOJ", "Televízne programy a filmy"],
+        ["Marzika", "Rodinný obsah"],
+        ["Doma", "Televízne relácie pre ženy"],
+        ["Dajto", "Televízne relácie pre mužov"],
         ["Channel Name", "Channel Description"],
     ];
     return chinfodb;

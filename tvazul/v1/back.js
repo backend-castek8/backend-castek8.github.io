@@ -16,6 +16,14 @@
         ["https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8", "https://backend-castek8.github.io/tvazul/v1/banners/tvireality.png"],
         ["https://video-auth2.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/playlist.m3u8", "https://backend-castek8.github.io/tvazul/v1/banners/vplus.png"],
         ["https://cnnportugal.iol.pt/direto", "https://backend-castek8.github.io/tvazul/v1/banners/cnnpt.png"],
+        ["https://www.rtvs.sk/embed/live/1", "https://backend-castek8.github.io/tvazul/v1/banners/rtvs1.svg"],
+        ["https://www.rtvs.sk/embed/live/2", "https://backend-castek8.github.io/tvazul/v1/banners/rtvs2.svg"],
+        ["https://www.rtvs.sk/embed/live/3", "https://backend-castek8.github.io/tvazul/v1/banners/rtvs24.svg"],
+        ["https://www.rtvs.sk/embed/live/15", "https://backend-castek8.github.io/tvazul/v1/banners/rtvsport.svg"],
+        ["https://live.joj.sk/", "https://backend-castek8.github.io/tvazul/v1/banners/joj.svg"],
+        ["https://media.cms.markiza.sk/embed/markiza-live?autoplay=any", "https://backend-castek8.github.io/tvazul/v1/banners/marzika.svg"],
+        ["https://media.cms.markiza.sk/embed/doma-live?autoplay=any", "https://backend-castek8.github.io/tvazul/v1/banners/doma.svg"],
+        ["https://media.cms.markiza.sk/embed/dajto-live?autoplay=any", "https://backend-castek8.github.io/tvazul/v1/banners/dajto.svg"],
     ];
     return channeldb;
 }
